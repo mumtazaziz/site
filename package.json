@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "8.37.0",
-    "eslint-config-next": "13.3.0",
-    "next": "13.3.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "autoprefixer": "^10.4.14",
+    "next": "^13.3.0",
+    "next-intl": "^2.12.0",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.1"
+  },
+  "devDependencies": {
+    "@tsconfig/next": "^1.0.5",
+    "@tsconfig/strictest": "^2.0.0",
+    "@types/node": "^18.15.11",
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "eslint": "^8.38.0",
+    "eslint-config-next": "^13.3.0",
+    "eslint-config-standard-jsx": "^11.0.0",
+    "eslint-config-standard-react": "^13.0.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "typescript": "^5.0.4"
   }
 }

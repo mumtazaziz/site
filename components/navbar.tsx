@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-export default function Navbar ({ links = [] }: { links: any[] }): JSX.Element {
+export default function Navbar ({ links }: { links: any[] }): JSX.Element {
   return (
     <header>
       Mumtaz Aziz

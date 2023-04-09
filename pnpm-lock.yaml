@@ -2,25 +2,25 @@ lockfileVersion: '6.0'
 
 dependencies:
   autoprefixer:
-    specifier: 10.4.14
+    specifier: ^10.4.14
     version: 10.4.14(postcss@8.4.21)
   next:
-    specifier: 13.3.0
+    specifier: ^13.3.0
     version: 13.3.0(react-dom@18.2.0)(react@18.2.0)
   next-intl:
     specifier: ^2.12.0
     version: 2.12.0(next@13.3.0)(react@18.2.0)
   postcss:
-    specifier: 8.4.21
+    specifier: ^8.4.21
     version: 8.4.21
   react:
-    specifier: 18.2.0
+    specifier: ^18.2.0
     version: 18.2.0
   react-dom:
-    specifier: 18.2.0
+    specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   tailwindcss:
-    specifier: 3.3.1
+    specifier: ^3.3.1
     version: 3.3.1(postcss@8.4.21)
 
 devDependencies:
@@ -31,19 +31,19 @@ devDependencies:
     specifier: ^2.0.0
     version: 2.0.0
   '@types/node':
-    specifier: 18.15.11
+    specifier: ^18.15.11
     version: 18.15.11
   '@types/react':
-    specifier: 18.0.33
+    specifier: ^18.0.33
     version: 18.0.33
   '@types/react-dom':
-    specifier: 18.0.11
+    specifier: ^18.0.11
     version: 18.0.11
   eslint:
-    specifier: 8.38.0
+    specifier: ^8.38.0
     version: 8.38.0
   eslint-config-next:
-    specifier: 13.3.0
+    specifier: ^13.3.0
     version: 13.3.0(eslint@8.38.0)(typescript@5.0.4)
   eslint-config-standard-jsx:
     specifier: ^11.0.0
@@ -55,7 +55,7 @@ devDependencies:
     specifier: ^34.0.1
     version: 34.0.1(@typescript-eslint/eslint-plugin@5.57.1)(eslint-plugin-import@2.27.5)(eslint-plugin-n@15.7.0)(eslint-plugin-promise@6.1.1)(eslint@8.38.0)(typescript@5.0.4)
   typescript:
-    specifier: 5.0.4
+    specifier: ^5.0.4
     version: 5.0.4
 
 packages:

@@ -1,0 +1,11 @@
+{
+    "*": {
+        "type": "page"
+    },
+    "index": {
+        "title": "Home",
+        "display": "hidden"
+    },
+    "works": "Works",
+    "about": "About"
+}

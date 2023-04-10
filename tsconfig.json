@@ -13,7 +13,9 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "pages/index.mdx",
+    "theme.config.jsx"
   ],
   "exclude": [
     "node_modules"
